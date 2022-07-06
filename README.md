@@ -5,7 +5,7 @@ This repository contains all my documentation for the '[Preppin Data](https://pr
 ### `My Process`
 Solutions were coded in [Google BigQuery](https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax) SQL syntax using a [Count](https://count.co/) SQL notebook.<br>
 
-Each challenge folder contains the following files including the csv files for the input and finaloutput
+Each challenge folder contains the following files including the csv files for the input and final output
 - **.md**: markdown from SQL notebook
 - **.sql**: compiled sql for creating the final output
 
