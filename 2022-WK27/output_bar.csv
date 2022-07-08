@@ -1,0 +1,19 @@
+﻿Quantity,Store_Name,Region,Sales_Value,Present_In_N_Orders
+1,Chelsea,West,9928.69,50
+2,Chelsea,West,9279.839999999997,49
+4,Chelsea,West,10037.279999999995,54
+1,Dulwich,East,9971.780000000004,55
+2,Dulwich,East,11115.210000000005,62
+4,Dulwich,East,9069.22,54
+1,Lewisham,East,12815.769999999999,63
+2,Lewisham,East,10846.53,51
+4,Lewisham,East,12023.330000000007,73
+1,Notting Hill,West,9679.22,49
+2,Notting Hill,West,10799.339999999998,60
+4,Notting Hill,West,10744.000000000004,60
+1,Shoreditch,East,9448.980000000005,54
+2,Shoreditch,East,11679.750000000002,67
+4,Shoreditch,East,8362.590000000004,57
+1,Wimbledon,West,10615.260000000002,61
+2,Wimbledon,West,11776.839999999995,60
+4,Wimbledon,West,13170.550000000005,67
