@@ -13,10 +13,11 @@ Each challenge folder contains the following files including the csv files for t
 ### `Completed Challenges` 
 Check the links below for all the documentation for each individual challenge.
 
-| 2022-WK26 | Making Spotify Data Spotless | [Challenge](https://preppindata.blogspot.com/2022/06/2022-week-26-making-spotify-data.html)   | [Solution Notebook](https://count.co/notebook/QNeQy4t45lN) |
+| 📆 | 🗂 | 🧠 | 👩🏼‍💻|
 | --------- | ---------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 2022-WK26 | Making Spotify Data Spotless | [Challenge](https://preppindata.blogspot.com/2022/06/2022-week-26-making-spotify-data.html)   | [Solution Notebook](https://count.co/notebook/QNeQy4t45lN) |
 | 2022-WK27 | C&BSCo Clean and Aggregate   | [Challenge](https://preppindata.blogspot.com/2022/07/2022-week-27-c-clean-and-aggregate.html) | [Solution Notebook](https://count.co/notebook/bSXqSaQ9Zdo) |
-| 2022-WK28 | C&BSCo No Sales Today        | [Challenge](https://preppindata.blogspot.com/2022/07/2022-week-28-c-no-sales-today.html)      | [Solution Notebook](https://count.co/notebook/UvSghK0UsVz) |
+| 2022-WK28 | C&BSCo No Sales Today        | [Challenge](https://preppindata.blogspot.com/2022/07/2022-week-28-c-no-sales-today.html)      | [Solution Notebook](https://count.co/notebook/wMfhkjhzQBp) |
 
 
 
