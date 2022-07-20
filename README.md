@@ -11,13 +11,13 @@ Each challenge folder contains the following files including the csv files for t
 
 
 ### `Completed Challenges` 
-Check the links below for all the documentation for each individual challenge.
-
-| 📆 | 🗂 | 🧠 | 👩🏼‍💻|
-| --------- | ---------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| 2022-WK26 | Making Spotify Data Spotless | [Challenge](https://preppindata.blogspot.com/2022/06/2022-week-26-making-spotify-data.html)   | [Solution Notebook](https://count.co/notebook/QNeQy4t45lN) |
-| 2022-WK27 | C&BSCo Clean and Aggregate   | [Challenge](https://preppindata.blogspot.com/2022/07/2022-week-27-c-clean-and-aggregate.html) | [Solution Notebook](https://count.co/notebook/bSXqSaQ9Zdo) |
-| 2022-WK28 | C&BSCo No Sales Today        | [Challenge](https://preppindata.blogspot.com/2022/07/2022-week-28-c-no-sales-today.html)      | [Solution Notebook](https://count.co/notebook/wMfhkjhzQBp) |
+Check the links below for all the documentation (challenge and sql notebook) for the challenges I completed so far. I also added a shortlist of the main functions and operators I used when solving each challenge. (🤓: inside the notebook and markdown files you'll find links to additional materials I reviewed as I'm learning and that could be useful for your own learning journey).
 
 
+| 📆        | 🗂                           | 🧮                                                                         | 🧠                                                                                                 | 📒                                                         |
+| --------- | ---------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 2022-WK25 | Housing Happy Hotel Guests   |                                                                            | [Challenge](https://preppindata.blogspot.com/2022/06/2022-week-25-housing-happy-hotel-guests.html) | [Solution Notebook](https://count.co/notebook/QLP6USadahs) |
+| 2022-WK26 | Making Spotify Data Spotless | ROUND - EXTRACT - CAST - PIVOT - ROW_NUMBER                                | [Challenge](https://preppindata.blogspot.com/2022/06/2022-week-26-making-spotify-data.html)        | [Solution Notebook](https://count.co/notebook/QNeQy4t45lN) |
+| 2022-WK27 | C&BSCo Clean and Aggregate   | SPLIT - ORDINAL - TRIM - RTRIM - LENGTH - CONTAINS_SUBSTR - REPLACE - CAST | [Challenge](https://preppindata.blogspot.com/2022/07/2022-week-27-c-clean-and-aggregate.html)      | [Solution Notebook](https://count.co/notebook/bSXqSaQ9Zdo) |
+| 2022-WK28 | C&BSCo No Sales Today        | EXTRACT - CAST - GENERATE_DATE_ARRAY - UNNEST - FORMAT_DATE                | [Challenge](https://preppindata.blogspot.com/2022/07/2022-week-28-c-no-sales-today.html)           | [Solution Notebook](https://count.co/notebook/UvSghK0UsVz) |
 
