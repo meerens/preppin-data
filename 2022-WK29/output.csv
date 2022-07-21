@@ -1,0 +1,13 @@
+﻿Store_Name,Region,Product_Type,Total_Sales,Target,Beats_Target
+Chelsea,West,Liquid,59640.50000000012,60000,No
+Chelsea,West,Bar,29245.81000000001,25000,Yes
+Dulwich,East,Liquid,76457.58,75000,Yes
+Dulwich,East,Bar,30156.209999999977,30000,Yes
+Lewisham,East,Liquid,78734.5799999999,75000,Yes
+Lewisham,East,Bar,35685.63000000005,35000,Yes
+Wimbledon,West,Bar,35562.65,35000,Yes
+Wimbledon,West,Liquid,72279.03000000001,70000,Yes
+Shoreditch,East,Liquid,68881.37999999989,70000,No
+Shoreditch,East,Bar,29491.32000000003,30000,No
+Notting Hill,West,Liquid,67772.14000000001,65000,Yes
+Notting Hill,West,Bar,31222.559999999994,30000,Yes
