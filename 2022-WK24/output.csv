@@ -1,0 +1,32 @@
+﻿Rank,Flying_From,Flying_To,Route,Airline,Flight_Number,Distance_Mi,Distance_Km,Scheduled_Duration,Aircraft,First_Flight,From_Lat,From_Lng,To_Lat,To_Lng
+26,Dubai,Dallas,Dubai - Dallas,Emirates,EK 221,8041,12940,16:15,777-200LR,2012-02-02,252697,553094,327936,-967662
+20,Dubai,Houston,Dubai - Houston,Emirates,EK 211,8167,13144,16:15,777-200LR,2007-12-03,252697,553094,297863,-953889
+9,Houston,Sydney,Houston - Sydney,United Airlines,UA 101,8596,13834,17:35,787-9,2018-01-18,297863,-953889,-33865,1512094
+12,San Francisco,Singapore,San Francisco - Singapore,United Airlines,"UA 1, UA 29",8446,13593,17:25,787-9,2016-06-01,377562,-122443,13,1038
+14,Dubai,Los Angeles,Dubai - Los Angeles,Emirates,EK 215,8339,13420,16:20,A380-800,2008-10-26,252697,553094,341139,-1184068
+5,Auckland,Dubai,Auckland - Dubai,Emirates,EK 449,8823,14200,17:10,777-200LR,2016-03-02,-3685,1747833,252697,553094
+7,San Francisco,Bengaluru,San Francisco - Bengaluru,Air India,AI 176,8702,14004,17:45,777-200LR,2021-01-09,377562,-122443,129699,77598
+18,Manila,Toronto,Manila - Toronto,Philippine Airlines,PR 118,8221,13230,16:05,A350-900,2019-02-02,145958,1209772,437417,-793733
+2,Newark,Singapore,Newark - Singapore,Singapore Airlines,SQ 21,9534,15344,18:45,A350-900ULR,2022-03-27,407245,-741725,13,1038
+4,Perth,London,Perth - London,Qantas,QF 9,9009,14499,17:25,787-9,2018-03-24,-31953512,115957048,515072,-1275
+1,New York,Singapore,New York - Singapore,Singapore Airlines,SQ 23,9537,15349,18:50,A350-900ULR,2020-11-09,406943,-739249,13,1038
+11,Manila,New York,Manila - New York,Philippine Airlines,PR 126,8520,13712,16:35,A350-900,2018-10-29,145958,1209772,406943,-739249
+28,Hong Kong,Boston,Hong Kong - Boston,Cathay Pacific,CX 812,7970,12826,15:55,A350-900777-300ER,2015-05-03,22305,114185,423188,-710846
+3,Auckland,Doha,Auckland - Doha,Qatar Airways,QR 921,9032,14535,18:05,777-200LR,2017-02-05,-3685,1747833,253,515333
+6,Los Angeles,Singapore,Los Angeles - Singapore,Singapore Airlines,"SQ 37, SQ 35",8770,14114,17:50,A350-900,2018-11-02,341139,-1184068,13,1038
+8,Darwin,London,Darwin - London,Qantas,QF 1,8620,13872,17:25,787-9,2021-11-01,-124381,1308411,515072,-1275
+23,New York,Hong Kong,New York - Hong Kong,Cathay Pacific,"CX 831, CX 841, CX 843, CX 845",8072,12990,16:15,A350-900A350-1000777-300ER,2004-07-01,406943,-739249,22305,114185
+21,Dubai,San Francisco,Dubai - San Francisco,Emirates,EK 225,8103,13041,16:00,A380-800,2008-12-15,252697,553094,377562,-122443
+25,Doha,Houston,Doha - Houston,Qatar Airways,QR 713,8048,12952,16:15,A350-1000,2009-03-31,253,515333,297863,-953889
+24,Newark,Hong Kong,Newark - Hong Kong,United Airlines,UA 179,8065,12980,16:00,777-200ER,2001-03-01,407245,-741725,22305,114185
+10,Dallas,Sydney,Dallas - Sydney,Qantas,QF 8,8577,13804,17:20,787-9,2014-09-29,327936,-967662,-33865,1512094
+30,Houston,Taipei,Houston - Taipei,EVA Air,BR 51,7939,12776,16:30,777-300ER,2015-06-20,297863,-953889,250478,1215319
+16,Doha,Los Angeles,Doha - Los Angeles,Qatar Airways,"QR 739,QR 741",8306,13367,16:25,A350-1000,2016-01-01,253,515333,341139,-1184068
+13,Johannesburg,Atlanta,Johannesburg - Atlanta,Delta Air Lines,DL 201,8439,13581,16:20,A350-900,2021-08-01,-262044,280416,337627,-844224
+19,Chicago,Auckland,Chicago - Auckland,Air New Zealand,NZ 27,8183,13170,16:30,787-9,2018-11-30,418373,-876862,-3685,1747833
+15,Jeddah,Los Angeles,Jeddah - Los Angeles,Saudia,SV 41,8332,13409,16:25,777-300ER,2014-03-31,215428,391728,341139,-1184068
+12,San Francisco,Singapore,San Francisco - Singapore,Singapore Airlines,"SQ 31, SQ 33",8446,13593,17:35,A350-900ULR,2016-10-23,377562,-122443,13,1038
+22,Doha,San Francisco,Doha - San Francisco,Qatar Airways,QR 737,8087,13014,15:40,A350-1000,2020-12-15,253,515333,377562,-122443
+27,Johannesburg,Newark,Johannesburg - Newark,United Airlines,UA 187,7990,12858,15:45,787-9,2021-06-03,-262044,280416,407245,-741725
+17,Hyderabad,Chicago,Hyderabad - Chicago,Air India,AI 107,8265,13301,16:45,777-200LR,2021-01-13,173667,784667,418373,-876862
+29,Vancouver,Singapore,Vancouver - Singapore,Singapore Airlines,SQ 47,7967,12821,17:50,A350-900,2021-12-02,4925,-1231,13,1038
