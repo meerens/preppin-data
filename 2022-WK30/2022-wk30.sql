@@ -1,16 +1,14 @@
 -- combine top3 files and add in the region
-
 WITH  step_1 as (
   SELECT *, "West" AS Region FROM preppindata.`2022w30_west_top3`
   UNION ALL
     -- technically you don't need an alias for 'region' column in the second select
-    -- whatever you put here will be replaced by the column headers in the first select
+    -- what put here will be replaced by the column headers in the first select
   SELECT *, "East" AS Whatever FROM preppindata.`2022w30_east_top3`
 ),
 
 -- add in the store name
 -- only keep relevant fields
-
 step_2 as (
   SELECT 
   t.Store,
@@ -24,7 +22,6 @@ step_2 as (
 ),
 
 -- calculate the sales value for each store
-
 step_3 as (
   SELECT 
   Store_Name,
@@ -36,7 +33,6 @@ step_3 as (
 -- bringing together sales per store and top3 data
 -- calculate sales value per sales person
 -- only keep required columns
-
 SELECT 
 ROUND((t.Percent_of_Store_Sales * s.Sales_by_Store)/100,2) AS Sales_by_Sales_Person,
 t.Store_Name,
