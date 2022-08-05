@@ -60,7 +60,7 @@ Check the overview below for all the documentation (challenge and sql notebook) 
 
 **IF**
 
-- [SQL Resources / BigQuery / IF](SQL IF Function | BigQuery Syntax and Examples | Count https://count.co/sql-resources/bigquery-standard-sql/if) (via count.co)
+- [BigQuery Syntax and Examples](https://count.co/sql-resources/bigquery-standard-sql/if) (via count.co)
 
 ### `P`
 
