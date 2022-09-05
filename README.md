@@ -12,7 +12,7 @@ Each challenge folder contains the following files including the csv files for t
 
 ### `Completed Challenges` 
 
-Check the challenge index for all the challenges I completed so far. Each index contains a shortlist of the main functions and operators I used (including links to the BigQuery documentation) when solving each challenge plus a short summary of my lessons learnt). 
+Check the challenge index (grouped by year) for all the challenges I completed so far. Each index contains a shortlist of the main functions and operators I used (including links to the BigQuery documentation) when solving each challenge plus a short summary of my lessons learnt. 
  
 ### [2022](https://github.com/meerens/preppin-data/blob/main/2022/README.md) 
 
