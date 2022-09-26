@@ -3,12 +3,12 @@
 This repository contains all my documentation for the '[Preppin Data](https://preppindata.blogspot.com/)' challenges I completed so far. <br>Keep watching 👀 this space as I add on more solutions.<br>
 
 ### `My Process`
-Solutions were coded in [Google BigQuery](https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax) SQL syntax using a [Count](https://count.co/) SQL notebook.<br>
+Solutions were coded in [Google BigQuery](https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax) SQL syntax using a [Count](https://count.co/) Canvas or Notebook.<br>
 
-Each challenge folder contains the following files including the csv files for the input and final output.
-- **.pdf**: a printout of the SQL notebook (when no markdown is available)
-- **.md**: markdown from SQL notebook
-- **.sql**: compiled sql for creating the final output
+Each challenge folder contains the following files:
+- the csv files for the input and final output(s)
+- markdown & code snapshot (for notebooks) OR a canvas screenshot
+- compiled sql for creating the final output
 
 ### `Completed Challenges` 
 
