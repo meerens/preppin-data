@@ -59,6 +59,12 @@ The below is a summary of the additional materials I reviewewed as I'm learning 
 
 - [BigQuery Syntax and Examples](https://count.co/sql-resources/bigquery-standard-sql/if) (via count.co)
 
+### `L`
+
+**LAST_VALUE**
+
+- [How to fill missing data in BigQuery using the LAST_VALUE function](https://bettydata.medium.com/using-bigquerys-last-value-function-to-fill-missing-data-849a224c530) (via medium.com)
+
 ### `P`
 
 **PARSE_DATE**
