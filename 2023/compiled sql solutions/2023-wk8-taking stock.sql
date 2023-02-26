@@ -1,5 +1,7 @@
--- check my count canvas for more details
--- https://count.co/report/QaHHzaFd5ME?frame=vVEIw4gDoJm
+-- solution prepared by Marian Eerens
+-- coded in BigQuery SQL syntax
+-- challenge: https://preppindata.blogspot.com/2023/02/2023-week-8-taking-stock.html
+-- check my count canvas for my full SQL workflow: https://count.co/report/QaHHzaFd5ME?frame=vVEIw4gDoJm
 
 WITH
   union_tables AS (
